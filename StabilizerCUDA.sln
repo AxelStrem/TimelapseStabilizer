@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StabilizerCUDA", "StabilizerCUDA.vcxproj", "{3A2AB198-3FC2-4580-93AD-3A1897927FB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A2AB198-3FC2-4580-93AD-3A1897927FB7}.Debug|x64.ActiveCfg = Debug|x64
+		{3A2AB198-3FC2-4580-93AD-3A1897927FB7}.Debug|x64.Build.0 = Debug|x64
+		{3A2AB198-3FC2-4580-93AD-3A1897927FB7}.Release|x64.ActiveCfg = Release|x64
+		{3A2AB198-3FC2-4580-93AD-3A1897927FB7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9358665-6A7D-48DE-BEB7-D064AA50661A}
+	EndGlobalSection
+EndGlobal
